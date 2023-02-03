@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "kubernetes://schema/v1%40service": "file:///Users/bruner/Projects/PlatformsManager/K8S/platforms-depl.yaml"
+  }
+}
